@@ -1,4 +1,4 @@
-# Leetcode-Python20
+# LC-Python20
 
 ## 669.Trim a Binary Search Tree, 108.Convert Sorted Array to Binary Search Tree, 538. Convert BST to Greater Tree, Summary of binary tree!!
 
