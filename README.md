@@ -1,6 +1,6 @@
 # Leetcode-Python20
 
-## 669. Trim a Binary Search Tree
+## 669.Trim a Binary Search Tree, 108.Convert Sorted Array to Binary Search Tree
 
 June 12, 2023  4h
 
@@ -41,11 +41,9 @@ class Solution:
 ```
 
 
-## 108.
-
-将有序数组转换为二叉搜索树  
-本题就简单一些，可以尝试先自己做做。
-
+## 108. Convert Sorted Array to Binary Search Tree
+[leetcode](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)\
+Convert sorted array to binary search tree. This question is simpler.
 
 
 
